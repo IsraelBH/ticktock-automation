@@ -1,0 +1,8 @@
+# See https://github.com/github/linguist
+*.html linguist-vendored
+
+src/*.astro linguist-detectable
+*.ico binary
+*.svg text
+*.jpg binary  
+*.yaml linguist-detectable=false
